@@ -1,0 +1,5 @@
+{
+  "name": "Substation Battery Sizing Tool",
+  "description": "A simplified IEEE 485 compliant battery sizing tool for substation DC systems.",
+  "requestFramePermissions": []
+}
